@@ -1,0 +1,10 @@
+{
+    "name": "devdojo/welcome",
+    "authors": [
+        {
+            "name": "Tony Lea",
+            "email": "tnylea@gmail.com"
+        }
+    ],
+    "require": {}
+}
