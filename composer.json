@@ -6,10 +6,5 @@
             "email": "tnylea@gmail.com"
         }
     ],
-    "require": {},
-    "autoload": {
-        "psr-4": {
-            "Devdojo\\Welcome\\": "src/"
-        }
-    }
+    "require": {}
 }
