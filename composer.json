@@ -11,5 +11,12 @@
         "psr-4": {
             "Devdojo\\Welcome\\": "src/"
         }
+    },
+    "extra": {
+    	"laravel": {
+    		"providers": [
+    			"Devdojo\\Welcome\\WelcomeServiceProvider"
+    		]
+    	}
     }
 }
